@@ -1,21 +1,23 @@
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="stylesheet" href="styles.css">
 </head>
-<body>
+
+<body class="text-gray-600">
     <div> <!-- content wrapper -->
         <div> <!-- start nav -->
             <nav>
                 <div>
-                    <h1>
+                    <h1 class="font-bold uppercase p-4 border-b border-gray-100">
                         <a href="/">Food Ninja</a>
                     </h1>
                 </div>
                 <ul>
-                    <li>
+                    <li class="text-gray-700 font-bold">
                         <a href="#">
                             <span>Home</span>
                         </a>
@@ -34,40 +36,46 @@
             </nav>
         </div> <!-- end nav -->
 
-        <main>
+        <main class="px-16 py-6">
             <div>
                 <a href="#">Login</a>
                 <a href="#">Sign Up</a>
             </div>
+
+            <header>
+                <h2 class="text-gray-700 text-2xl font-semibold">Recipes</h2>
+                <h3 class="text-xl font-semibold">For Ninjas</h3>
+            </header>
+
+            <div> <!-- recipe cards -->
+                <h4 class="font-bold mt-12 pb-2 border-b border-gray-200">Latest Recipes</h4>
+                <div class="mt-8">
+                    <!-- cards here -->
+                    <img src="" alt="">
+                    <div>
+                        <span>5 Bean Chili Stew</span>
+                        <span>Recipe by Mario</span>
+                    </div>
+                </div>
+
+                <h4 class="font-bold mt-12 pb-2 border-b border-gray-200">Popular Recipes</h4>
+                <div class="mt-8">
+                    <!-- cards here -->
+                    <img src="" alt="">
+                    <div>
+                        <span>5 Bean Chili Stew</span>
+                        <span>Recipe by Mario</span>
+                    </div>
+                </div>
+
+                <div>
+                    <div>
+                        Show More Recipes
+                    </div>
+                </div>
+            </div>
         </main>
-
-        <header>
-            <h2>Recipes</h2>
-            <h3>For Ninjas</h3>
-        </header>
-
-        <div> <!-- recipe cards -->
-            <h4>Latest Recipes</h4>
-            <div>
-                <!-- cards here -->
-                <img src="" alt="">
-                <div>
-                    <span>5 Bean Chili Stew</span>
-                    <span>Recipe by Mario</span>
-                </div>
-            </div>
-
-            <h4>Popular Recipes</h4>
-            <div>
-                <!-- cards here -->
-            </div>
-
-            <div>
-                <div>
-                    Show More Recipes
-                </div>
-            </div>
-        </div>
     </div>
 </body>
+
 </html>
