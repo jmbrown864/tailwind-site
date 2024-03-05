@@ -14,3 +14,4 @@ Creating a basic website with TailwindCSS
 - [x] Add icons to badges and nav
 - [x] Add hover states for buttons and badges
 - [x] Make nav responsive
+- [x] Add transitions to hover states
