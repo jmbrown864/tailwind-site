@@ -10,3 +10,7 @@ Creating a basic website with TailwindCSS
 - [x] Create badges for recipe cards
 - [x] Create custom classes using the @apply directive
 - [x] Define grid layout
+- [x] Define a button class and style buttons
+- [x] Add icons to badges and nav
+- [x] Add hover states for buttons and badges
+- [x] Make nav responsive
