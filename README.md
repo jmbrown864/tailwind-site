@@ -1,17 +1,25 @@
-# Tailwind
+<h1 align="center">Tailwind Site</h1>
 
+## Project Description
 Creating a basic website with TailwindCSS
 
-## Implementation Steps
-- [x] Setup and configuration for using TailwindCSS
-- [x] Create HTML template
-- [x] Add custom fonts and colors
-- [x] Create recipe cards
-- [x] Create badges for recipe cards
-- [x] Create custom classes using the @apply directive
-- [x] Define grid layout
-- [x] Define a button class and style buttons
-- [x] Add icons to badges and nav
-- [x] Add hover states for buttons and badges
-- [x] Make nav responsive
-- [x] Add transitions to hover states
+## Built With:
+- HTML
+- Tailwind
+
+## To Run:
+
+### Package Dependencies:
+[live-server](https://www.npmjs.com/package/live-server)
+
+### Instructions
+From project root, run:
+```
+live-server public/
+```
+
+## Screenshots:
+![](site.gif)
+
+## Author: Jasmine Brown
+[LinkedIn](https://linkedin.com/in/jmbrown864/)
