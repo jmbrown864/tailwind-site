@@ -19,11 +19,11 @@ live-server public/
 ```
 
 ## Screenshots:
-Responsive:
+### Responsive:
 ![](site.gif)
 
-Mobile View:
-![](site-mobile-nav-open.png)
+### Mobile View (Navigation Open):
+<img src="site-mobile-nav-open.png" width="300"/>
 
 ## Author: Jasmine Brown
 [LinkedIn](https://linkedin.com/in/jmbrown864/)
