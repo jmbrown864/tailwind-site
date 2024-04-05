@@ -19,7 +19,11 @@ live-server public/
 ```
 
 ## Screenshots:
+Responsive:
 ![](site.gif)
+
+Mobile View:
+![](site-mobile-nav-open.png)
 
 ## Author: Jasmine Brown
 [LinkedIn](https://linkedin.com/in/jmbrown864/)
